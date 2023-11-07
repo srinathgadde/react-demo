@@ -261,3 +261,5 @@ import Teacher, { promote } from "./teacher"; // both default and named export
 // import React,{Component} from "react";  (l./ for own modules that are part of our project , here react is 3rd party library which is stored in node modules folders)
 const teacher = new Teacher("Srinath", "BTech");
 teacher.teach();
+
+console.log(" This is just demo");
