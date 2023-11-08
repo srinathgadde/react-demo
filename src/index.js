@@ -262,4 +262,4 @@ import Teacher, { promote } from "./teacher"; // both default and named export
 const teacher = new Teacher("Srinath", "BTech");
 teacher.teach();
 
-console.log(" This is just demo");
+console.log(" This is just");
